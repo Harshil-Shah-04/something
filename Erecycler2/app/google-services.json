@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986001359286",
+    "project_id": "e-recycler-sam2108",
+    "storage_bucket": "e-recycler-sam2108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986001359286:android:554d49714e520d4f738117",
+        "android_client_info": {
+          "package_name": "com.example.e_recycler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjxwCvjNgKHROMkqICeOQXeE-bQOUDRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
