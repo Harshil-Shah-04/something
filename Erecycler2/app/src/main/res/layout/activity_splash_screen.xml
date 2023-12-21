@@ -24,18 +24,18 @@
     </com.airbnb.lottie.LottieAnimationView>
 
     <TextView
-        android:id="@+id/textViewSplash"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="104dp"
-        android:text="E-Rcycler App"
-        android:textColor="#494CDA"
-        android:textStyle="bold"
-        android:textColorHighlight="#ECE961"
-        android:textSize="34sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/lottieAnimationView" />
+            android:id="@+id/textViewSplash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="104dp"
+            android:text="E-Recycler App"
+            android:textColor="#494CDA"
+            android:textStyle="bold"
+            android:textColorHighlight="#ECE961"
+            android:textSize="34sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lottieAnimationView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

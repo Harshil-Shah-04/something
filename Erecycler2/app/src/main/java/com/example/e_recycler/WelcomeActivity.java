@@ -23,7 +23,7 @@ public class WelcomeActivity extends AppCompatActivity {
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("message");
 
-        myRef.setValue("Sanyam Jain ");
+        myRef.setValue("Sanyam Jain");
 
         // Read from the database
         myRef.addValueEventListener(new ValueEventListener() {
